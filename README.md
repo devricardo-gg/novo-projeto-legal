@@ -1,2 +1,2 @@
-# novo-projeto-legal
-Alguma coisa pra teste git - push
+git add
+git push
